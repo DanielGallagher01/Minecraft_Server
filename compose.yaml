@@ -12,6 +12,7 @@ services:
       MEMORY: "4096M"
       TZ: "Australia/Melbourne"
       DIFFICULTY: "2"
+      SPAWN_PROTECTION: "0"
       OPS: |-
         danandgeorge
       CURSEFORGE_FILES: |-
