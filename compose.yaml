@@ -1,0 +1,35 @@
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "NEOFORGE"
+      VERSION: "1.21.1"
+      MEMORY: "4096M"
+      TZ: "Australia/Melbourne"
+      DIFFICULTY: "2"
+      OPS: |-
+        danandgeorge
+      CURSEFORGE_FILES: |-
+        create
+        farmers-delight
+        createaddition
+        create-enchantment-industry
+        create-dragons-plus
+        kotlin-for-forge
+        hypertubes
+        slice-and-dice
+        create-central-kitchen
+        create-deco
+        bellsandwhistles
+        create-diesel-generators
+        storage-drawers
+        simply-backpacks
+        carry-on
+      CF_API_KEY: "$$2a$$10$$m3OdYLF3ev9fGZCim0C67OYIAysnKfw.95o0C4NvyIJBLZjqmcJD2"
+    volumes:
+      - "./data:/data"
