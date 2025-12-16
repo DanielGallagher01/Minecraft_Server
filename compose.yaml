@@ -33,6 +33,8 @@ services:
         carry-on
         wthit-forge
         badpackets
+        dcintegration
+        jei
       CF_API_KEY: "$$2a$$10$$m3OdYLF3ev9fGZCim0C67OYIAysnKfw.95o0C4NvyIJBLZjqmcJD2"
     volumes:
       - "./data:/data"

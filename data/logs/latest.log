@@ -1,0 +1,191 @@
+[16Dec2025 08:59:22.545] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.216, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[16Dec2025 08:59:22.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.9+10-LTS
+[16Dec2025 08:59:22.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.9 by Eclipse Adoptium; OS Linux arch amd64 version 6.17.9-100.fc41.x86_64
+[16Dec2025 08:59:22.641] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Dec2025 08:59:22.675] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/data/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[16Dec2025 08:59:22.852] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.216:server]
+[16Dec2025 08:59:22.866] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.216-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-universal.jar]], reader: mod manifest]
+[16Dec2025 08:59:22.871] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "badpackets-neo-0.8.2.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.875] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bellsandwhistles-0.4.7-1.21.1.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.877] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "carryon-neoforge-1.21.1-2.2.2.11.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.884] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.8.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.887] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-central-kitchen-2.2.6.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.889] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-dragons-plus-1.8.5.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.891] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-enchantment-industry-2.2.5b.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.893] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_hypertube-0.3.0-NEOFORGE.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.895] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createaddition-1.5.9.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.898] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createdeco-2.1.2.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.900] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createdieselgenerators-1.21.1-1.3.8.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FarmersDelight-1.21.1-1.2.9.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.904] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinforforge-5.10.0-all.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.909] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "simplybackpacks-2.1.9+mc1.21-b1.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.910] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sliceanddice-forge-4.2.2.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.912] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "StorageDrawers-neoforge-1.21.1-13.11.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:22.913] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "wthit-1.21.1-neo-12.8.3.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.216-universal.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-jdk8-1.10.2.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Ponder-NeoForge-1.21.1-1.0.64.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.216.jar" [parent: neoforge-21.1.216-universal.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "conditional-mixin-neoforge-0.6.4.jar" [parent: create-dragons-plus-1.8.5.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk7-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.200] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk8-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "thedarkcolour.kfflang-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "thedarkcolour.kfflib-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-core-jvm-1.9.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "thedarkcolour.kffmod-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-reflect-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.5.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[16Dec2025 08:59:23.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-json-jvm-1.9.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.202] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-core-jvm-1.10.2.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[16Dec2025 08:59:23.203] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Bad Packets 0.8.2 (badpackets)
+		Carry On 2.2.2 (carryon)
+		conditional mixin 0.6.4 (conditional_mixin)
+		Create 6.0.8 (create)
+		Create Crafts & Additions 1.5.9 (createaddition)
+		Create Deco 2.1.2 (createdeco)
+		Create Diesel Generators 1.21.1-1.3.8 (createdieselgenerators)
+		Create Hypertube 0.3.0 (create_hypertube)
+		Create Slice & Dice 4.2.2 (sliceanddice)
+		Create: Bells & Whistles 0.4.7-1.21.1 (bellsandwhistles)
+		Create: Central Kitchen 2.2.6 (create_central_kitchen)
+		Create: Dragons Plus 1.8.5 (create_dragons_plus)
+		Create: Enchantment Industry 2.2.5b (create_enchantment_industry)
+		Farmer's Delight 1.2.9 (farmersdelight)
+		Flywheel 1.0.5 (flywheel)
+		Kotlin For Forge 5.10.0 (kotlinforforge)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.216 (neoforge)
+		Ponder 1.0.64 (ponder)
+		Simply Backpacks 2.1.9+mc1.21-b1 (simplybackpacks)
+		Storage Drawers 13.11.4 (storagedrawers)
+		wthit 12.8.3 (wthit)
+[16Dec2025 08:59:23.582] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[16Dec2025 08:59:23.607] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[16Dec2025 08:59:23.632] [main/WARN] [mixin/]: Reference map 'create_hypertube.refmap.json' for create_hypertube.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2025 08:59:23.632] [main/WARN] [mixin/]: Reference map 'conflict_fix.refmap.json' for conflict_fix.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2025 08:59:23.633] [main/WARN] [mixin/]: Reference map 'createdieselgenerators.refmap.json' for createdieselgenerators.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2025 08:59:23.700] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2025 08:59:24.055] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[16Dec2025 08:59:24.230] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[16Dec2025 08:59:27.693] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[16Dec2025 08:59:27.708] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.216, for MC 1.21.1
+[16Dec2025 08:59:27.709] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 5f1b407a97467157e7a0da0c560c7d1d5f378929
+[16Dec2025 08:59:27.735] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[16Dec2025 08:59:27.755] [modloading-worker-0/INFO] [Create Deco/]: Populating connected texture maps...
+[16Dec2025 08:59:27.971] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16Dec2025 08:59:30.901] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[16Dec2025 08:59:30.902] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 minecraft:bamboo = 1 minecraft:bamboo_block
+[16Dec2025 08:59:30.903] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[16Dec2025 08:59:30.905] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New denied storage item storagedrawers:creative_vending_upgrade
+[16Dec2025 08:59:30.907] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for types: c:storage_blocks, c:ingots, c:nuggets
+[16Dec2025 08:59:30.907] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[16Dec2025 08:59:30.959] [modloading-worker-0/INFO] [com.mrh0.createaddition.CreateAddition/]: Create Crafts & Additions Initialized!
+[16Dec2025 08:59:30.977] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[16Dec2025 08:59:30.984] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[16Dec2025 08:59:30.994] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[16Dec2025 08:59:30.994] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:neo at mcp.mobius.waila.plugin.neo.NeoCommonPlugin
+[16Dec2025 08:59:30.995] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[16Dec2025 08:59:31.010] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json?neoforge=only
+[16Dec2025 08:59:31.016] [modloading-sync-worker/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[16Dec2025 08:59:31.067] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16Dec2025 08:59:31.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23134!/assets/.mcassetsroot' uses unexpected schema
+[16Dec2025 08:59:31.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23134!/data/.mcassetsroot' uses unexpected schema
+[16Dec2025 08:59:31.213] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[16Dec2025 08:59:31.218] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[16Dec2025 08:59:31.225] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: Starting provider [plus.dragons.createdragonsplus.data.internal.CDPRuntimeRecipeProvider@cd0a934] for runtime resource [create_dragons_plus:runtime]
+[16Dec2025 08:59:31.242] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: plus.dragons.createdragonsplus.data.internal.CDPRuntimeRecipeProvider@cd0a934 finished after 16 ms
+[16Dec2025 08:59:31.253] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: Starting provider [plus.dragons.createcentralkitchen.data.CCKBlockTags@636d2231] for runtime resource [create_central_kitchen:runtime]
+[16Dec2025 08:59:31.256] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: plus.dragons.createcentralkitchen.data.CCKBlockTags@636d2231 finished after 3 ms
+[16Dec2025 08:59:31.256] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: Starting provider [plus.dragons.createcentralkitchen.data.CCKItemTags@672e34f9] for runtime resource [create_central_kitchen:runtime]
+[16Dec2025 08:59:31.257] [main/INFO] [plus.dragons.createdragonsplus.data.runtime.RuntimePackResources/]: plus.dragons.createcentralkitchen.data.CCKItemTags@672e34f9 finished after 0 ms
+[16Dec2025 08:59:31.641] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[16Dec2025 08:59:32.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdeco:placard
+com.google.gson.JsonParseException: No key id in MapLike[{"item":"create:placard"}]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23100!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:36) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:69) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:861) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.Main.main(Main.java:204) ~[server-1.21.1-20240808.144430-srg.jar%23134!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:128) ~[loader-4.0.42.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonServerLaunchHandler.runService(CommonServerLaunchHandler.java:32) ~[loader-4.0.42.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%2364!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[16Dec2025 08:59:32.244] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 5416 recipes
+[16Dec2025 08:59:32.410] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 4517 advancements
+[16Dec2025 08:59:34.006] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[16Dec2025 08:59:34.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[16Dec2025 08:59:34.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Dec2025 08:59:34.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Dec2025 08:59:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Dec2025 08:59:34.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Dec2025 08:59:34.170] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Dec2025 08:59:34.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Dec2025 08:59:35.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Dec2025 08:59:35.258] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Dec2025 08:59:35.335] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 277 ms
+[16Dec2025 08:59:35.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.134s)! For help, type "help"
+[16Dec2025 08:59:35.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[16Dec2025 08:59:35.338] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[16Dec2025 08:59:35.338] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[16Dec2025 08:59:35.345] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
+[16Dec2025 08:59:35.373] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[16Dec2025 08:59:35.375] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[16Dec2025 09:00:35.131] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player danandgeorge is fe21ce3a-ffc2-460c-9bc6-0ffdf42b2afd
+[16Dec2025 09:00:37.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danandgeorge[/192.168.1.24:50852] logged in with entity id 22 at (-2882.542715086538, 79.0, -4053.883465020062)
+[16Dec2025 09:00:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danandgeorge joined the game
+[16Dec2025 09:01:28.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danandgeorge lost connection: Disconnected
+[16Dec2025 09:01:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danandgeorge left the game
+[16Dec2025 09:46:25.828] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dekkas69 is 312c45fc-4fe0-49f9-b853-e1b8e02a4d1d
+[16Dec2025 09:46:27.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dekkas69[/14.203.90.125:52204] logged in with entity id 338 at (-5585.925182383802, 62.110764312744145, -5894.396844982034)
+[16Dec2025 09:46:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 joined the game
+[16Dec2025 10:42:58.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dekkas69 lost connection: Disconnected
+[16Dec2025 10:42:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 left the game
+[16Dec2025 11:29:34.760] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dekkas69 is 312c45fc-4fe0-49f9-b853-e1b8e02a4d1d
+[16Dec2025 11:29:36.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dekkas69[/14.203.90.125:63051] logged in with entity id 39033 at (-4664.539637872102, 62.11076431274413, -7897.999351049838)
+[16Dec2025 11:29:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 joined the game
+[16Dec2025 11:34:30.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dekkas69 lost connection: Disconnected
+[16Dec2025 11:34:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 left the game
+[16Dec2025 11:36:41.765] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dekkas69 is 312c45fc-4fe0-49f9-b853-e1b8e02a4d1d
+[16Dec2025 11:36:43.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dekkas69[/14.203.90.125:50138] logged in with entity id 40194 at (-4867.815492504748, 62.11076431274413, -7751.7680611685655)
+[16Dec2025 11:36:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 joined the game
+[16Dec2025 11:55:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 was doomed to fall by Zombie
+[16Dec2025 11:58:53.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2899, y=71, z=-4591} BlockPos{x=-2899, y=71, z=-4590}
+[16Dec2025 11:58:57.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2897, y=72, z=-4595} BlockPos{x=-2895, y=71, z=-4596}
+[16Dec2025 12:40:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 has made the advancement [The Cutest Predator]
+[16Dec2025 13:49:37.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dekkas69 lost connection: Disconnected
+[16Dec2025 13:49:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 left the game
+[16Dec2025 14:16:58.443] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dekkas69 is 312c45fc-4fe0-49f9-b853-e1b8e02a4d1d
+[16Dec2025 14:17:00.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dekkas69[/14.203.90.125:54040] logged in with entity id 88970 at (-2892.5, 79.0, -4052.5)
+[16Dec2025 14:17:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dekkas69 joined the game
+[16Dec2025 14:30:46.803] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[16Dec2025 14:51:32.653] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
