@@ -2567,3 +2567,25 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"create:placard
 [18Dec2025 14:06:17.789] [Server thread/DEBUG] [mixin/]: badpackets.mixins.json:MixinCustomPacketPayload_1 from mod badpackets: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [18Dec2025 14:06:17.791] [Server thread/DEBUG] [mixin/]: badpackets.mixins.json:MixinCustomPacketPayload_1 from mod badpackets->@Inject::badpackets_encode(Lnet/minecraft/network/FriendlyByteBuf;Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
 [18Dec2025 14:06:17.791] [Server thread/DEBUG] [mixin/]: badpackets.mixins.json:MixinCustomPacketPayload_1 from mod badpackets->@Inject::badpackets_decode(Lnet/minecraft/network/FriendlyByteBuf;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/resources/ResourceLocation;)V does use it's CallbackInfoReturnable
+[18Dec2025 14:06:44.960] [JDA RateLimit-Scheduler-Worker 2/DEBUG] [net.dv8tion.jda.api.requests.RestRateLimiter/]: Removed 4 expired buckets
+[18Dec2025 14:09:16.968] [JDA MainWS-WriteThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: WebSocket connection closed with code CloseCode[NOT_AUTHENTICATED](code=4003, meaning=You sent a payload prior to identifying.)
+[18Dec2025 14:09:16.969] [JDA MainWS-WriteThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got disconnected from WebSocket (Code: 4003). Attempting to resume session
+[18Dec2025 14:09:16.969] [JDA MainWS-WriteThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Attempting to reconnect in 0s
+[18Dec2025 14:09:16.969] [JDA MainWS-WriteThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Attempting to reconnect!
+[18Dec2025 14:09:17.312] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Connected to WebSocket
+[18Dec2025 14:09:17.312] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Sending Resume-packet...
+[18Dec2025 14:09:17.314] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got HELLO packet (OP 10). Initializing keep-alive.
+[18Dec2025 14:09:17.596] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got Invalidate request (OP 9). Invalidating...
+[18Dec2025 14:09:17.833] [JDA MainWS-ReadThread/WARN] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[18Dec2025 14:09:17.838] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.api.utils.SessionControllerAdapter/]: Running worker
+[18Dec2025 14:09:17.839] [ConcurrentSessionController-Worker-0/DEBUG] [net.dv8tion.jda.api.utils.SessionControllerAdapter/]: Running connect node for shard JDA.ShardInfo(currentShard=[0 / 1], totalShards=1)
+[18Dec2025 14:09:17.844] [ConcurrentSessionController-Worker-0/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Queue is attempting to reconnect a shard... Shard: [0 / 1] Attempting to reconnect in 2s
+[18Dec2025 14:09:19.845] [ConcurrentSessionController-Worker-0/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Attempting to reconnect!
+[18Dec2025 14:09:20.255] [JDA MainWS-ReadThread/INFO] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Connected to WebSocket
+[18Dec2025 14:09:20.256] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Connected with gateway intents: 1000011000000011
+[18Dec2025 14:09:20.256] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Sending Identify-packet...
+[18Dec2025 14:09:20.256] [JDA MainWS-ReadThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got HELLO packet (OP 10). Initializing keep-alive.
+[18Dec2025 14:09:20.497] [JDA MainWS-WriteThread/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: WebSocket connection closed with code CloseCode[AUTHENTICATION_FAILED](code=4004, meaning=The account token sent with your identify payload is incorrect.)
+[18Dec2025 14:09:20.497] [JDA MainWS-WriteThread/ERROR] [net.dv8tion.jda.internal.requests.WebSocketClient/]: WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode[AUTHENTICATION_FAILED](code=4004, meaning=The account token sent with your identify payload is incorrect.)
+[18Dec2025 14:09:20.505] [ConcurrentSessionController-Worker-0/DEBUG] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Shutdown while trying to reconnect

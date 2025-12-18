@@ -189,3 +189,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"create:placard
 [18Dec2025 14:06:15.436] [Server thread/INFO] [net.dv8tion.jda.api.JDA/]: Login Successful!
 [18Dec2025 14:06:15.939] [JDA MainWS-ReadThread/INFO] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Connected to WebSocket
 [18Dec2025 14:06:17.298] [JDA MainWS-ReadThread/INFO] [net.dv8tion.jda.api.JDA/]: Finished Loading!
+[18Dec2025 14:09:17.833] [JDA MainWS-ReadThread/WARN] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[18Dec2025 14:09:20.255] [JDA MainWS-ReadThread/INFO] [net.dv8tion.jda.internal.requests.WebSocketClient/]: Connected to WebSocket
+[18Dec2025 14:09:20.497] [JDA MainWS-WriteThread/ERROR] [net.dv8tion.jda.internal.requests.WebSocketClient/]: WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode[AUTHENTICATION_FAILED](code=4004, meaning=The account token sent with your identify payload is incorrect.)
